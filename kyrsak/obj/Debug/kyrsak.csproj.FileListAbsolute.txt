@@ -1,0 +1,21 @@
+C:\Users\Erjan\Desktop\cripto\kyrsak\kyrsak\kyrsak\bin\Debug\kyrsak.exe.config
+C:\Users\Erjan\Desktop\cripto\kyrsak\kyrsak\kyrsak\obj\Debug\kyrsak.csprojResolveAssemblyReference.cache
+C:\Users\Erjan\Desktop\cripto\kyrsak\kyrsak\kyrsak\obj\Debug\kyrsak.Form1.resources
+C:\Users\Erjan\Desktop\cripto\kyrsak\kyrsak\kyrsak\obj\Debug\kyrsak.Properties.Resources.resources
+C:\Users\Erjan\Desktop\cripto\kyrsak\kyrsak\kyrsak\obj\Debug\kyrsak.csproj.GenerateResource.Cache
+C:\Users\Erjan\Desktop\cripto\kyrsak\kyrsak\kyrsak\bin\Debug\kyrsak.exe
+C:\Users\Erjan\Desktop\cripto\kyrsak\kyrsak\kyrsak\bin\Debug\kyrsak.pdb
+C:\Users\Erjan\Desktop\cripto\kyrsak\kyrsak\kyrsak\obj\Debug\kyrsak.exe
+C:\Users\Erjan\Desktop\cripto\kyrsak\kyrsak\kyrsak\obj\Debug\kyrsak.pdb
+E:\Учёба\3 курс\Курсак\kyrsak\kyrsak\bin\Debug\kyrsak.exe.config
+E:\Учёба\3 курс\Курсак\kyrsak\kyrsak\obj\Debug\kyrsak.exe
+E:\Учёба\3 курс\Курсак\kyrsak\kyrsak\obj\Debug\kyrsak.pdb
+E:\Учёба\3 курс\Курсак\kyrsak\kyrsak\bin\Debug\kyrsak.exe
+E:\Учёба\3 курс\Курсак\kyrsak\kyrsak\bin\Debug\kyrsak.pdb
+E:\Учёба\3 курс\Курсак\kyrsak\kyrsak\obj\Debug\kyrsak.csprojResolveAssemblyReference.cache
+E:\Учёба\3 курс\Курсак\kyrsak\kyrsak\obj\Debug\kyrsak.Form1.resources
+E:\Учёба\3 курс\Курсак\kyrsak\kyrsak\obj\Debug\kyrsak.Properties.Resources.resources
+E:\Учёба\3 курс\Курсак\kyrsak\kyrsak\obj\Debug\kyrsak.csproj.GenerateResource.Cache
+D:\Учёба\3 курс\Курсак\kyrsak\kyrsak\bin\Debug\kyrsak.exe.config
+D:\Учёба\3 курс\Курсак\kyrsak\kyrsak\obj\Debug\kyrsak.exe
+D:\Учёба\3 курс\Курсак\kyrsak\kyrsak\obj\Debug\kyrsak.pdb
